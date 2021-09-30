@@ -1,3 +1,3 @@
 # react mealDb project with routing
 
-live project= https://hardcore-carson-3a17a1.netlify.app
+live project=https://react-mealdb-with-routing.netlify.app/
