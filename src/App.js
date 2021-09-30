@@ -17,7 +17,7 @@ function App() {
       <Header />
       <Switch>
         <Route exact path="/">
-          <MealDetails></MealDetails>
+          <Restaurant></Restaurant>
         </Route>
         <Route path="/home">
           <Restaurant></Restaurant>
